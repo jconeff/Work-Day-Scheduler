@@ -63,39 +63,39 @@ function colorCode() {
   } else if (now < 12) {
     $(".text12").addClass("future");
   }
-  if (now > 1) {
+  if (now > 13) {
     $(".text1").addClass("past");
-  } else if (now >= 1 && now < 2) {
+  } else if (now >= 13 && now < 14) {
     $(".text1").addClass("present");
-  } else if (now < 1) {
+  } else if (now < 13) {
     $(".text1").addClass("future");
   }
-  if (now > 2) {
+  if (now > 14) {
     $(".text2").addClass("past");
-  } else if (now >= 2 && now < 3) {
+  } else if (now >= 14 && now < 15) {
     $(".text2").addClass("present");
-  } else if (now < 2) {
+  } else if (now < 14) {
     $(".text2").addClass("future");
   }
-  if (now > 3) {
+  if (now > 15) {
     $(".text3").addClass("past");
-  } else if (now >= 3 && now < 4) {
+  } else if (now >= 15 && now < 16) {
     $(".text3").addClass("present");
-  } else if (now < 3) {
+  } else if (now < 15) {
     $(".text3").addClass("future");
   }
-  if (now > 4) {
+  if (now > 16) {
     $(".text4").addClass("past");
-  } else if (now >= 4 && now < 5) {
+  } else if (now >= 16 && now < 17) {
     $(".text4").addClass("present");
-  } else if (now < 4) {
+  } else if (now < 16) {
     $(".text4").addClass("future");
   }
-  if (now > 5) {
+  if (now > 17) {
     $(".text5").addClass("past");
-  } else if (now >= 5 && now < 6) {
+  } else if (now >= 17 && now < 18) {
     $(".text5").addClass("present");
-  } else if (now < 5) {
+  } else if (now < 17) {
     $(".text5").addClass("future");
   }
 }
