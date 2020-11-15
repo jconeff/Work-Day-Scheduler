@@ -36,67 +36,67 @@ $("button").click(function() {
 
 function colorCode() {
   if (now > 9) {
-    $(".hour-9").addClass("past");
+    $(".text9").addClass("past");
   } else if (now >= 9 && now < 10) {
-    $(".hour-9").addClass("present");
+    $(".text9").addClass("present");
   } else if (now < 9) {
-    $(".hour-9").addClass("future");
+    $(".text9").addClass("future");
   }
   if (now > 10) {
-    $(".hour-10").addClass("past");
+    $(".text10").addClass("past");
   } else if (now >= 10 && now < 11) {
-    $(".hour-10").addClass("present");
+    $(".text10").addClass("present");
   } else if (now < 10) {
-    $(".hour-10").addClass("future");
+    $(".text10").addClass("future");
   }
   if (now > 11) {
-    $(".hour-11").addClass("past");
+    $(".text11").addClass("past");
   } else if (now >= 11 && now < 12) {
-    $(".hour-11").addClass("present");
+    $(".text11").addClass("present");
   } else if (now < 11) {
-    $(".hour-11").addClass("future");
+    $(".text11").addClass("future");
   }
   if (now > 12) {
-    $(".hour-12").addClass("past");
+    $(".text12").addClass("past");
   } else if (now >= 12 && now < 13) {
-    $(".hour-12").addClass("present");
+    $(".text12").addClass("present");
   } else if (now < 12) {
-    $(".hour12").addClass("future");
+    $(".text12").addClass("future");
   }
   if (now > 1) {
-    $(".hour-1").addClass("past");
+    $(".text1").addClass("past");
   } else if (now >= 1 && now < 2) {
-    $(".hour-1").addClass("present");
+    $(".text1").addClass("present");
   } else if (now < 1) {
-    $(".hour-1").addClass("future");
+    $(".text1").addClass("future");
   }
   if (now > 2) {
-    $(".hour-2").addClass("past");
+    $(".text2").addClass("past");
   } else if (now >= 2 && now < 3) {
-    $(".hour-2").addClass("present");
+    $(".text2").addClass("present");
   } else if (now < 2) {
-    $(".hour-2").addClass("future");
+    $(".text2").addClass("future");
   }
   if (now > 3) {
-    $(".hour-3").addClass("past");
+    $(".text3").addClass("past");
   } else if (now >= 3 && now < 4) {
-    $(".hour-3").addClass("present");
+    $(".text3").addClass("present");
   } else if (now < 3) {
-    $(".hour-3").addClass("future");
+    $(".text3").addClass("future");
   }
   if (now > 4) {
-    $(".hour-4").addClass("past");
+    $(".text4").addClass("past");
   } else if (now >= 4 && now < 5) {
-    $(".hour-4").addClass("present");
+    $(".text4").addClass("present");
   } else if (now < 4) {
-    $(".hour-4").addClass("future");
+    $(".text4").addClass("future");
   }
   if (now > 5) {
-    $(".hour-5").addClass("past");
+    $(".text5").addClass("past");
   } else if (now >= 5 && now < 6) {
-    $(".hour-5").addClass("present");
+    $(".text5").addClass("present");
   } else if (now < 5) {
-    $(".hour-5").addClass("future");
+    $(".text5").addClass("future");
   }
 }
 
