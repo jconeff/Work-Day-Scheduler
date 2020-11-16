@@ -29,6 +29,8 @@ UCF Bootcamp week 5 challenge
 * HTML
 * CSS
 * JavaScript
+* jQuery
+* moment.js
 
 ## Website
 https://jconeff.github.io/Work-Day-Scheduler/
