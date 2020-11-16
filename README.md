@@ -1,6 +1,6 @@
 # Work Day Scheduler
 
-## Purposehttps://training.github.com/downloads/github-git-cheat-sheet.pdf
+## Purpose
 UCF Bootcamp week 5 challenge
 
 ## User Story
