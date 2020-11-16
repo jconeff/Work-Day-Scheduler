@@ -3,7 +3,8 @@
 ## Purpose
 UCF Bootcamp week 5 challenge
 
-https://github.com/jconeff/Work-Day-Scheduler/issues/1
+![Screenshot 2020-11-16 005902](https://user-images.githubusercontent.com/65797801/99218381-550f7f00-27a8-11eb-8acf-383cf48ec43a.png)
+
 
 ## User Story
 
